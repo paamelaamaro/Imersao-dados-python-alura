@@ -1,4 +1,4 @@
-# Imersão Dados com Python – Análise de Salários
+# Imersão Dados com Python – Análise de Salários na área de dados
 
 ## Sobre o projeto  
 Este projeto faz parte da **Imersão Dados com Python** e foca na análise de médias salariais na área de dados.  
